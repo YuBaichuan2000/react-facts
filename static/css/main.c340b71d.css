@@ -1,0 +1,2 @@
+html{box-sizing:border-box}*,:before{box-sizing:inherit}body{background-color:#d3d3d3;font-size:16px}.container{background-color:#282d35;height:600px;margin:50px auto 0;width:500px}.navbar{background-color:#000;color:#fff;font-weight:700;height:15%;justify-content:space-between;padding:3%;width:100%}#left,.navbar{align-items:center;display:flex}img{margin-right:5px}h1{color:#61dafb}#main{color:#fff;padding:5%}#main li{max-width:330px;padding-block:10px}li::marker{color:#61dafb}.attribution{margin:50px auto 0;width:10%}
+/*# sourceMappingURL=main.c340b71d.css.map*/

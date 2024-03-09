@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-facts/static/css/main.c340b71d.css",
+    "main.js": "/react-facts/static/js/main.ade4c970.js",
+    "static/media/react-1-logo-svg-vector.svg": "/react-facts/static/media/react-1-logo-svg-vector.011e7c1df86b45faf46cd92fe47d6bbd.svg",
+    "index.html": "/react-facts/index.html",
+    "main.c340b71d.css.map": "/react-facts/static/css/main.c340b71d.css.map",
+    "main.ade4c970.js.map": "/react-facts/static/js/main.ade4c970.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c340b71d.css",
+    "static/js/main.ade4c970.js"
+  ]
+}
